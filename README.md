@@ -13,6 +13,10 @@ ensuring you have the right answers at your fingertips. </br>
 Just install all the lib from requirements.txt  </br>
 pip install -r requirements.txt </br>
 
+# Technology used
+Streamlit as the intuitive frontend. Langchain provides natural language understanding and generation, while OpenAI delivers cutting-edge results. </br>
+Streamlit simplifies the user interface, enabling seamless interaction with the app's language processing features. </br>
+
 # Run Locally
 streamlit run app.py </br>
 
